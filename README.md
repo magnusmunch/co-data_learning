@@ -35,3 +35,11 @@ The practicals are found here:
 
 [gren](https://rawgit.com/magnusmunch/co-data_learning/master/gren_practical.html)
 
+## Slides
+
+Slides on Methodology:
+
+[Co-Data learning with empirical Bayes](https://rawgit.com/magnusmunch/co-data_learning/master/EBprediction_VdWielMunch.pdf)
+
+[GRridge extensions](https://rawgit.com/magnusmunch/co-data_learning/master/GRridgeExtensions.pdf)
+
