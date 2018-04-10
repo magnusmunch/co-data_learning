@@ -25,10 +25,10 @@ The data files for the <code>gren</code> part of the practical are found here:
 
 [Fitted models colorectal cancer data](https://github.com/magnusmunch/co-data_learning/raw/master/gren_models_mir_colon.Rdata)
 
-### Jekyll Themes
+The data for the <code>GRridge</code> part of the practical are included in the package
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/magnusmunch/co-data_learning/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Exercises
 
-### Support or Contact
+The documents containing the exercises are found here:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[gren](https://github.com/magnusmunch/co-data_learning/raw/master/gren_practical.html)
