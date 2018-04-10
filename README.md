@@ -39,7 +39,7 @@ The practicals are found here:
 
 Slides on Methodology:
 
-[Co-Data learning with empirical Bayes](https://rawgit.com/magnusmunch/co-data_learning/master/EBprediction_VdWielMunch.pdf)
+[Co-Data learning with empirical Bayes: GRridge and gren](https://rawgit.com/magnusmunch/co-data_learning/master/EBprediction_VdWielMunch.pdf)
 
 [GRridge extensions](https://rawgit.com/magnusmunch/co-data_learning/master/GRridgeExtensions.pdf)
 
