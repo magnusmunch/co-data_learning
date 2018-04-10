@@ -1,31 +1,19 @@
-## Welcome to GitHub Pages
+This website contains the short course "Co-data learning: the group-regularized ridge and elastic net”
 
-You can use the [editor on GitHub](https://github.com/magnusmunch/co-data_learning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Preparation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please install the packages <code>GRridge</code> and <code>gren</code> in <code>R</code> using the following code:
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+library(devtools)
+install_github("magnusmunch/gren")
+install_github("markvdwiel/GRridge")
 ```
 
+If you encounter any problems, please don't hesitate to contact m.munch@vumc.nl or mark.vdwiel@vumc.nl
+
+## Data
+The data files for the <code>gren</code>
 [data1](https://github.com/magnusmunch/co-data_learning/raw/master/gren_data_mir_cervical.Rdata)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
