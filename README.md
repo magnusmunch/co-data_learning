@@ -30,6 +30,7 @@ The data files for the <code>gren</code> part of the practical are found here:
 ## Practicals including Exercises
 
 The practicals are found here:
+
 [GRridge](https://rawgit.com/magnusmunch/co-data_learning/master/GRridgeCourse.pdf)
 
 [gren](https://rawgit.com/magnusmunch/co-data_learning/master/gren_practical.html)
