@@ -26,13 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-<form method="get" action="gren_data_mir_cervical.Rdata">
-   <button type="submit">Download!</button>
-</form>
-
-<a href="gren_data_mir_cervical.Rdata">Download File</a>
-
-[data1](gren_data_mir_cervical.Rdata)
+[data1](raw/gren_data_mir_cervical.Rdata)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
