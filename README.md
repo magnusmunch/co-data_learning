@@ -15,6 +15,8 @@ install_github("markvdwiel/GRridge")
 If you encounter any problems, please don't hesitate to contact m.munch@vumc.nl or mark.vdwiel@vumc.nl
 
 ## Data
+The data for the <code>GRridge</code> part of the practical are included in the package
+
 The data files for the <code>gren</code> part of the practical are found here:
 
 [Cervical cancer data](https://github.com/magnusmunch/co-data_learning/raw/master/gren_data_mir_cervical.Rdata)
@@ -25,11 +27,10 @@ The data files for the <code>gren</code> part of the practical are found here:
 
 [Fitted models colorectal cancer data](https://github.com/magnusmunch/co-data_learning/raw/master/gren_models_mir_colon.Rdata)
 
-The data for the <code>GRridge</code> part of the practical are included in the package
+## Practicals including Exercises
 
-## Exercises
-
-The documents containing the exercises are found here:
+The practicals are found here:
+[GRridge](https://rawgit.com/magnusmunch/co-data_learning/master/GRridgeCourse.pdf)
 
 [gren](https://rawgit.com/magnusmunch/co-data_learning/master/gren_practical.html)
 
