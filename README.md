@@ -26,6 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+<a href="gren_data_mir_cervical.Rdata">Download File</a>
 [data1](gren_data_mir_cervical.Rdata)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
