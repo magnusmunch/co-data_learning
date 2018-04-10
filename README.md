@@ -31,4 +31,4 @@ The data for the <code>GRridge</code> part of the practical are included in the 
 
 The documents containing the exercises are found here:
 
-[gren](www.github.com/magnusmunch/co-data_learning/gren_practical.html)
+[gren](https://github.com/magnusmunch/co-data_learning/gren_practical.html)
