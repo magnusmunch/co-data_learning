@@ -1,3 +1,5 @@
+## Contents
+
 This website contains the short course "Co-data learning: the group-regularized ridge and elastic net”
 
 ## Preparation
