@@ -26,6 +26,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+{% raw %}
+<button onclick="window.open('/gren_data_mir_cervical.Rdata')">Download</button>
+{% endraw %}
 <a href="gren_data_mir_cervical.Rdata">Download File</a>
 [data1](gren_data_mir_cervical.Rdata)
 
