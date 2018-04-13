@@ -7,7 +7,7 @@ This website contains the short course "Co-data learning: the group-regularized 
 Please install the packages <code>GRridge</code> and <code>gren</code> in <code>R</code> using the following code:
 
 ```markdown
-source("https://bioconductor.org7biocLite.R")
+source("https://bioconductor.org/biocLite.R")
 bioClite("BiocInstaller")
 bioClite("BiocGenerics")
 install.packages(c("devtools", "foreach"))
