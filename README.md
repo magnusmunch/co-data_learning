@@ -18,9 +18,11 @@ install_github("markvdwiel/GRridge")
 and <code>gren</code>:
 
 ```markdown
-install.packages("Rcpp") # if it asks to install from source, deny
+library(devtools)
+install_version("Rcpp", version = "0.12.14", repos = "http://cran.us.r-project.org")
 # R might have to restart when installing Rcpp
 library(devtools)
+install.packages("plyr")
 install_github("magnusmunch/gren") # if it asks to install Rtools, accept 
 # you might have to run the previous line again after installation of Rtools
 ```
