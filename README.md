@@ -10,7 +10,7 @@ Please install the packages <code>GRridge</code>:
 source("https://bioconductor.org/biocLite.R")
 biocLite("BiocInstaller") # if it asks to update packages, type n
 biocLite("BiocGenerics") # if it asks to update packages, type n
-install.packages(c("devtools", "foreach"))
+install.packages(c("devtools", "foreach", "curl", "Matrix"))
 library(devtools)
 install_github("markvdwiel/GRridge")
 ```
