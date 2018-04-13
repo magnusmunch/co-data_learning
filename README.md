@@ -14,7 +14,7 @@ install.packages(c("devtools", "foreach"))
 library(devtools)
 install_github("markvdwiel/GRridge")
 install_github("magnusmunch/gren") # if it asks to install Rtools, accept 
-# you might have to run it again after installation of Rtools
+# you might have to run the previous line again after installation of Rtools
 ```
 
 If you encounter any problems, please don't hesitate to contact m.munch@vumc.nl or mark.vdwiel@vumc.nl
