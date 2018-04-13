@@ -8,12 +8,12 @@ Please install the packages <code>GRridge</code> and <code>gren</code> in <code>
 
 ```markdown
 source("https://bioconductor.org/biocLite.R")
-bioClite("BiocInstaller")
-bioClite("BiocGenerics")
+bioClite("BiocInstaller") # if it asks to update packages, type n
+bioClite("BiocGenerics") # if it asks to update packages, type n
 install.packages(c("devtools", "foreach"))
 library(devtools)
 install_github("markvdwiel/GRridge")
-install_github("magnusmunch/gren")
+install_github("magnusmunch/gren") # if it asks to install Rtools, accept (you might have to run it again after installation of Rtools)
 ```
 
 If you encounter any problems, please don't hesitate to contact m.munch@vumc.nl or mark.vdwiel@vumc.nl
