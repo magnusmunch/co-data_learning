@@ -4,15 +4,23 @@ This website contains the short course "Co-data learning: the group-regularized 
 
 ## Preparation
 
-Please install the packages <code>GRridge</code> and <code>gren</code> in <code>R</code> using the following code:
+Please install the packages <code>GRridge</code>:
 
 ```markdown
 source("https://bioconductor.org/biocLite.R")
-bioClite("BiocInstaller") # if it asks to update packages, type n
-bioClite("BiocGenerics") # if it asks to update packages, type n
+biocLite("BiocInstaller") # if it asks to update packages, type n
+biocLite("BiocGenerics") # if it asks to update packages, type n
 install.packages(c("devtools", "foreach"))
 library(devtools)
 install_github("markvdwiel/GRridge")
+```
+
+and <code>gren</code>:
+
+```markdown
+install.packages("Rcpp") # if it asks to install from source, deny
+# R might have to restart when installing Rcpp
+library(devtools)
 install_github("magnusmunch/gren") # if it asks to install Rtools, accept 
 # you might have to run the previous line again after installation of Rtools
 ```
