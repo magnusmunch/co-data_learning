@@ -58,3 +58,8 @@ Slides on Methodology:
 
 [GRridge extensions](https://rawgit.com/magnusmunch/co-data_learning/master/GRridgeExtensions.pdf)
 
+[gren slides](https://rawgit.com/magnusmunch/co-data_learning/master/presentation.pdf)
+
+## Evaluation form
+
+[form](https://docs.google.com/forms/d/e/1FAIpQLSfXir-NPN1s4_vH3ctbxEYgh-pJPORJK9dm1cGC-TIC8p3h8A/viewform?c=0&w=1&usp=mail_form_link)
