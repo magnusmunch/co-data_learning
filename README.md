@@ -13,7 +13,8 @@ bioClite("BiocGenerics") # if it asks to update packages, type n
 install.packages(c("devtools", "foreach"))
 library(devtools)
 install_github("markvdwiel/GRridge")
-install_github("magnusmunch/gren") # if it asks to install Rtools, accept (you might have to run it again after installation of Rtools)
+install_github("magnusmunch/gren") # if it asks to install Rtools, accept 
+# you might have to run it again after installation of Rtools
 ```
 
 If you encounter any problems, please don't hesitate to contact m.munch@vumc.nl or mark.vdwiel@vumc.nl
